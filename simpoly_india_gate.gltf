@@ -1,0 +1,504 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v5.4.0)"
+    },
+    "extensionsUsed": [
+        "KHR_materials_volume",
+        "FB_ngon_encoding"
+    ],
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 418,
+            "type": "VEC3",
+            "max": [
+                6.150000095367432,
+                0.7999999523162842,
+                4.0
+            ],
+            "min": [
+                -6.150000095367432,
+                0.0,
+                -4.0
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 418,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                0.724138081073761,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                0.0,
+                -1.0
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 418,
+            "type": "VEC2",
+            "max": [
+                0.6568750143051147,
+                1.0
+            ],
+            "min": [
+                0.34312501549720764,
+                0.0
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 672,
+            "type": "SCALAR",
+            "max": [
+                417
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 14664,
+            "type": "VEC3",
+            "max": [
+                6.6999993324279785,
+                18.09010124206543,
+                4.350001335144043
+            ],
+            "min": [
+                -6.6999993324279785,
+                0.7999999523162842,
+                -4.350001335144043
+            ]
+        },
+        {
+            "bufferView": 5,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 14664,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        },
+        {
+            "bufferView": 6,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 14664,
+            "type": "VEC2",
+            "max": [
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.862645149230957e-7,
+                0.0
+            ]
+        },
+        {
+            "bufferView": 7,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 26832,
+            "type": "SCALAR",
+            "max": [
+                14663
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 8,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 121,
+            "type": "VEC3",
+            "max": [
+                5.0,
+                1.1102230246251565e-16,
+                5.0
+            ],
+            "min": [
+                -5.0,
+                -1.1102230246251565e-16,
+                -5.0
+            ]
+        },
+        {
+            "bufferView": 9,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 121,
+            "type": "VEC3",
+            "max": [
+                0.0,
+                1.0,
+                -0.0
+            ],
+            "min": [
+                0.0,
+                1.0,
+                -0.0
+            ]
+        },
+        {
+            "bufferView": 10,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 121,
+            "type": "VEC2",
+            "max": [
+                1.0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "bufferView": 11,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 600,
+            "type": "SCALAR",
+            "max": [
+                120
+            ],
+            "min": [
+                0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 598912,
+            "uri": "simpoly_india_gate_0.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 5016,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 5016,
+            "byteLength": 5016,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 10032,
+            "byteLength": 3344,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 13376,
+            "byteLength": 2688,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 16064,
+            "byteLength": 175968,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 192032,
+            "byteLength": 175968,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 368000,
+            "byteLength": 117312,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 485312,
+            "byteLength": 107328,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 592640,
+            "byteLength": 1452,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 594092,
+            "byteLength": 1452,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 595544,
+            "byteLength": 968,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 596512,
+            "byteLength": 2400,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "Material_2",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.4528299868106842,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.6510000228881836
+            }
+        },
+        {
+            "name": "Material_1",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.7924529910087585,
+                    0.6563900113105774,
+                    0.3842650055885315,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.6620000004768372
+            }
+        },
+        {
+            "name": "Ground",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.4433960020542145,
+                    0.4433960020542145,
+                    0.4433960020542145,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.6510000228881836
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "meshes[0]",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 3,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    }
+                }
+            ]
+        },
+        {
+            "name": "meshes[1]",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 1,
+                    "indices": 7,
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 5,
+                        "TEXCOORD_0": 6
+                    }
+                }
+            ]
+        },
+        {
+            "name": "meshes[2]",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 2,
+                    "indices": 11,
+                    "attributes": {
+                        "POSITION": 8,
+                        "NORMAL": 9,
+                        "TEXCOORD_0": 10
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "simpoly_india_gate",
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "Sketchfab_model",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                2.220446049250313e-16,
+                -1.0,
+                0.0,
+                0.0,
+                1.0,
+                2.220446049250313e-16,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                2
+            ],
+            "extras": {
+                "name": "Sketchfab_model"
+            }
+        },
+        {
+            "name": "root",
+            "children": [
+                3
+            ],
+            "extras": {
+                "name": "root"
+            }
+        },
+        {
+            "name": "GLTF_SceneRootNode",
+            "matrix": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                2.220446049250313e-16,
+                1.0,
+                0.0,
+                0.0,
+                -1.0,
+                2.220446049250313e-16,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                4,
+                7
+            ],
+            "extras": {
+                "name": "GLTF_SceneRootNode"
+            }
+        },
+        {
+            "name": "India_Gate_2",
+            "children": [
+                5,
+                6
+            ],
+            "extras": {
+                "name": "India Gate_2"
+            }
+        },
+        {
+            "name": "Object_4",
+            "mesh": 0,
+            "extras": {
+                "name": "Object_4"
+            }
+        },
+        {
+            "name": "Object_5",
+            "mesh": 1,
+            "extras": {
+                "name": "Object_5"
+            }
+        },
+        {
+            "name": "Plane_3",
+            "matrix": [
+                10.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                10.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "children": [
+                8
+            ],
+            "extras": {
+                "name": "Plane_3"
+            }
+        },
+        {
+            "name": "Object_7",
+            "mesh": 2,
+            "extras": {
+                "name": "Object_7"
+            }
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
